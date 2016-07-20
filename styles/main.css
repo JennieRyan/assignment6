@@ -86,3 +86,11 @@ div.infoBox {
     color: red;
     font-weight: bold;
 }
+
+#errorMessages {
+    background-color: darkred;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 1.5em;
+}
